@@ -98,10 +98,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
 
  ## Certificate:
-[Certificate of Completion](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Internship_completion_certificate_Shaikh_Minhaj.pdf)
-
- ## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
+[Certificate of Completion]([https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Internship_completion_certificate_Shaikh_Minhaj.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_dvwGD3CDxz6tQbqFC_1724738542349_completion_certificate.pdf))
 
 ## Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #Accenture #Internship
