@@ -97,8 +97,8 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Present to the Client:
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
 
- ## Certificate:
-[Certificate of Completion]([https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_dvwGD3CDxz6tQbqFC_1724738542349_completion_certificate.pdf]
+ ## **[Certificate]**:
+[Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_dvwGD3CDxz6tQbqFC_1724738542349_completion_certificate.pdf)
 ## Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #Accenture #Internship
 
